@@ -15,8 +15,8 @@ spark-submit --class org.apache.spark.deploy.dotnet.DotnetRunner --master local 
 
 # Refernce Links:
 
-[Spark dotnet issue #637](https://github.com/dotnet/spark/issues/637)
-[Support Type commit](https://github.com/dotnet/spark/pull/420#issue-372218875)
-[SparkFixture](https://github.com/dotnet/spark/blob/master/src/csharp/Microsoft.Spark.E2ETest/SparkFixture.cs#L22)
-[How to run test in spark](https://stackoverflow.com/questions/63352252/unittest-for-net-apache-spark)
+1. [Spark dotnet issue #637](https://github.com/dotnet/spark/issues/637)
+2. [Support Type commit](https://github.com/dotnet/spark/pull/420#issue-372218875)
+3. [SparkFixture](https://github.com/dotnet/spark/blob/master/src/csharp/Microsoft.Spark.E2ETest/SparkFixture.cs#L22)
+4. [How to run test in spark](https://stackoverflow.com/questions/63352252/unittest-for-net-apache-spark)
 
