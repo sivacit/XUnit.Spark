@@ -1,4 +1,4 @@
-# XUnit.Spark
+# Dotnet Spark unit testing XUnit.Spark
 Unit Testing Spark Dotnet application sample
 
 Sample application create to test the spark dotnet application. 
